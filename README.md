@@ -7,4 +7,6 @@ Lifted right from React Native 0.61 [Getting Started](https://facebook.github.io
 
 ```
 $ npx react-native init AwesomeProject
+$ cd AwesomeProject
+$ yarn add npx
 ```
